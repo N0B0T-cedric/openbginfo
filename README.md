@@ -12,8 +12,9 @@ Building dependency tree
 ```
 Next to **ImageMagick** you also need so common linux tools. In most 
 installations these will already be available by default:
-- Awk
-- Netstat
+- Awk (part of package net-tools on Ubuntu)
+- Route (part of package net-tools on Ubuntu)
+- Netstat (part of package net-tools on Ubuntu)
 - Sudo (The user executing the script also needs sudo-rights)
 
 ## Usage
