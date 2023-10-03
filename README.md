@@ -1,4 +1,4 @@
-# openbginfo
+# OpenBgInfo
 OpenBgInfo shows system info on your desktop background.
 
 ## Dependencies
