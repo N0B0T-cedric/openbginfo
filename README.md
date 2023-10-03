@@ -1,5 +1,5 @@
 # OpenBgInfo
-OpenBgInfo shows system info on your desktop background.
+OpenBgInfo shows system info on your desktop background in Gnome.
 ![alt text](https://github.com/N0B0T-cedric/openbginfo/blob/5a8de6b3023890a022b325b830e584ff2a8f9b29/OpenBgInfo.png)
 
 
